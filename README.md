@@ -23,6 +23,12 @@ Brief instructions if something were to want to re-recreate your app on their ow
 
 lozodev.tech
 
+```
+name: lozodev.tech
+value: 34.135.252.136
+TTL: 7200
+```
+
 I will be using GCP for this assignment
 
 Please see `screenshots` directory for live flask application deployed under domain name
